@@ -123,8 +123,28 @@ a.filled-button:hover {
 	margin-bottom: 15px;
 }
 
-.products-heading {
-	background-image: url(../images/products-heading.jpg);
+.export-heading {
+	background-image: url(../images/ExportDocuments.jpg);
+}
+
+.invoice-heading{
+	background-image: url(../images/Personal_ShipmentInvoice.jpg);
+}
+
+.market-heading{
+	background-image: url(../images/MarketAnalysis.jpg);
+}
+
+.trade-heading{
+	background-image: url(../images/InternationalTradeDept.jpg);
+}
+
+.asesoramiento-heading{
+	background-image: url(../images/Paquete_Asesoramiento.jpg);
+}
+
+.capacitaciones-heading{
+	background-image: url(../images/Capacitaciones.jpg);
 }
 
 .about-heading {
@@ -148,6 +168,7 @@ a.filled-button:hover {
 	font-size: 62px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	background-color: rgb(180, 172, 157, 0.8);
 }
 
 #preloader {
@@ -336,23 +357,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/fondo-puerto.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
-.banner-item-02 {
-	padding: 300px 0px;
-	background-image: url(../images/fondo-puerto.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
-.banner-item-03 {
-	padding: 300px 0px;
-	background-image: url(../images/fondo-puerto.jpg);
+	background-image: url(../images/ph-banner.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -644,8 +649,9 @@ header .navbar {
 }
 
 .h4-cursos{
-	color: #B4AC9D !important;
+	color: #fff !important;
 	text-transform: uppercase !important;
+	background-color: rgb(0, 42, 60, 0.8);
 }
 
 /* --------------------------------------------------------------- */
