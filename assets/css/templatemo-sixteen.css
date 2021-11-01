@@ -171,6 +171,14 @@ a.filled-button:hover {
 	background-color: rgb(180, 172, 157, 0.8);
 }
 
+.text-payment h2{
+	color: #fff;
+	font-size: 62px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	background-color: transparent !important;
+}
+
 #preloader {
   overflow: hidden;
   background: #002A3C;
